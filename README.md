@@ -9,7 +9,7 @@ A single organized place to learn, practice and certify!
 
 ### HashiCorp Documentation
 1. [Terraform Documentation](https://www.terraform.io/docs/index.html) : Terraform Documentation Home by HashiCorp. Run through the **_9 Essentials_** to begin with, from Intro to Estending Terraform.
-2. [Terraform Tutorials Home](https://www.terraform.io/docs/language/index.html)
+2. [Terraform Tutorials Home](https://www.terraform.io/docs/language/index.html) : Spend a lot of time on this page to exhaust everything listed here. Below are links extracted from this page for direction and guidance
    * [Terraform Tutorialss-Get Started-AWS](https://learn.hashicorp.com/collections/terraform/aws-get-started) : Complete all **_8 Tutorials_**.
  
 
