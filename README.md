@@ -1,7 +1,9 @@
 # HashiCorp-Terraform
-A Collection of Working Terraform Configurations, for learning and reference!  
-[Documentation and Reference](#documentation-and-reference)
-[HashiCorp Certified: Terraform Associate](#hashicorp-certified-terraform-associate)
+A single organized place to learn, practice and certify!
+
+1. [Documentation and Reference](#documentation-and-reference)
+2. [HashiCorp Certified: Terraform Associate](#hashicorp-certified-terraform-associate)
+3. [Working Repos](#working-repos)
 
 ## Documentation and Reference
 
@@ -15,3 +17,6 @@ A Collection of Working Terraform Configurations, for learning and reference!
 ## HashiCorp Certified Terraform Associate
 1. [Exam Objectives](https://www.hashicorp.com/certification/terraform-associate)
 2. [Exam Study Guide](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)
+
+## Working Repos
+### [AWS](https://github.com/acloudmaker/HashiCorp-Terraform/tree/main/AWS)
