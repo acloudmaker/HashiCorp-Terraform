@@ -3,7 +3,8 @@ A single organized place to learn, practice and certify!
 
 1. [Documentation and Reference](#documentation-and-reference)
 2. [HashiCorp Certified: Terraform Associate](#hashicorp-certified-terraform-associate)
-3. [Working Repos](#working-repos)
+3. [HashiCorp Certified Terraform Associate](#hashicorp-certified-terraform-associate)
+4. [GitHub Repos-My Working Collection](#github-repos-my-working-collection)
 
 ## Documentation and Reference
 
@@ -24,5 +25,13 @@ A single organized place to learn, practice and certify!
 1. [Exam Objectives](https://www.hashicorp.com/certification/terraform-associate)
 2. [Exam Study Guide](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)
 
-## Working Repos
+## Github Repos-HashiCorp
+### [Terraform](https://github.com/hashicorp/terraform)
+### [Consul](https://github.com/hashicorp/consul)
+### [Vault](https://github.com/hashicorp/vault)
+### [Vagrant](https://github.com/hashicorp/vagrant)
+### [Packer](https://github.com/hashicorp/packer)
+### [Nomad](https://github.com/hashicorp/nomad)
+
+## GitHub Repos-My Working Collection
 ### [AWS](https://github.com/acloudmaker/HashiCorp-Terraform/tree/main/AWS)
