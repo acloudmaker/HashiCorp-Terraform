@@ -24,7 +24,7 @@ A single organized place to learn, practice and certify!
    * [Enterprise Patterns](https://learn.hashicorp.com/collections/terraform/recommended-patterns) : Solutions for Enterprise Organizations
 
 ### Hashicorp Release Related Information
-1. [https://releases.hashicorp.com/](https://releases.hashicorp.com/) : Refer for up-to-date availability of HashiCorp products
+1. [HashiCorp Release Download Site](https://releases.hashicorp.com/) : Refer for up-to-date availability of HashiCorp products
 2. [Checkpoint Service](https://checkpoint.hashicorp.com/) : Checkpoint service by HashiCorp to provide version and alert information for various open source and proprietary products.
 3. [HashiCorp Discussion-Programmatic way to lookup latest version](https://discuss.hashicorp.com/t/is-there-a-programmatic-way-to-look-up-the-latest-version/15175/8) : Checkpoint API Example. 
  
