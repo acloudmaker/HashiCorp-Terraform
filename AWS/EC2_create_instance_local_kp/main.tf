@@ -1,4 +1,4 @@
-# See script and run mykp.sh to create key-pair before terraform apply and commands to test ssh and ping at the end
+# See script and run key.sh to create key-pair before terraform apply and commands to test ssh and ping at the end
 provider "aws" {
   profile    = "default"
   region     = "us-east-1"
