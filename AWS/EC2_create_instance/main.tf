@@ -15,4 +15,8 @@ provider "aws" {
 resource "aws_instance" "app_server" {
   ami           = "ami-0742b4e673072066f"
   instance_type = "t2.micro"
+  tags = {
+    Name = "MyEC2Server"
+    CreatedBy = "Terraform"
+  }
 }

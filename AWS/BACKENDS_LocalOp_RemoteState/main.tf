@@ -15,10 +15,10 @@
 terraform {
   # The block below canbe copied from https://app.terraform.io/app/ORG-NAME/workspaces/WORKSPACE-NAME
   backend "remote" {
-    organization = "ORG-NAME"
+    organization = "JDL-training"
 
     workspaces {
-      name = "WORKSPACE-NAME"
+      name = "HashiCorp-Terraform"
     }
   }
   required_providers {
@@ -37,4 +37,9 @@ provider "aws" {
 resource "aws_instance" "app_server" {
   ami           = "ami-0742b4e673072066f"
   instance_type = "t2.micro"
+
+  tags = {
+    Name = "MyEC2Server"
+    CreatedBy = "Terraform"
+  }
 }
