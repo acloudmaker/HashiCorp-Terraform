@@ -12,8 +12,6 @@
 # - Toekn cleanup: terraform logout [hostname (default app.terraform.io)] will remove credentials stored by terraform login
 # - https://www.terraform.io/docs/internals/credentials-helpers.html : Use credentials helpers as an alternative approach to customize credentials using an external program
 
-If you don't provide an explicit hostname, Terraform will assume you want to log out of Terraform Cloud at app.terraform.io
-
 terraform {
   # The block below canbe copied from https://app.terraform.io/app/ORG-NAME/workspaces/WORKSPACE-NAME
   backend "remote" {
