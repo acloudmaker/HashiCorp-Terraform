@@ -17,6 +17,8 @@ A single organized place to learn, practice and certify!
    * [Terraform Tutorialss-Get Started-AWS](https://learn.hashicorp.com/collections/terraform/aws-get-started) : Complete all **_8 Tutorials_**.
    * [Write Terraform with Typescript and Python](https://learn.hashicorp.com/collections/terraform/cdktf) : Complete all **_4 Tutorials_**.
    * [Use Cases for Terraform](https://learn.hashicorp.com/collections/terraform/use-case) : Complete all **_15 Tutorials_**.
+   * [Automate Terraform](https://learn.hashicorp.com/collections/terraform/automation) : Automate Terraform by running Terraform in Automation with CircleCI and other CI/CD platforms.
+   * [Enterprise Patterns](https://learn.hashicorp.com/collections/terraform/recommended-patterns) : Solutions for Enterprise Organizations
  
 
 ### External Documentation
