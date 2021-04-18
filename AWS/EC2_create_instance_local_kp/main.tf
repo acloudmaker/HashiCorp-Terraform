@@ -24,7 +24,7 @@ resource "aws_security_group" "mysg" {
     from_port   = -1
     to_port     = -1
     protocol    = "icmp"
-    cidr_blocks = ["73.222.214.39/32"]
+    cidr_blocks = ["w.x.y.z/32"]
   }
 
   ingress {
@@ -32,7 +32,7 @@ resource "aws_security_group" "mysg" {
     from_port   = 22
     to_port     = 22
     protocol    = "tcp"
-    cidr_blocks = ["73.222.214.39/32"]
+    cidr_blocks = ["w.x.y.z/32"]
   }
 
   ingress {
@@ -40,7 +40,7 @@ resource "aws_security_group" "mysg" {
     from_port   = 443
     to_port     = 443
     protocol    = "tcp"
-    cidr_blocks = ["73.222.214.39/32"]
+    cidr_blocks = ["w.x.y.z/32"]
   }
 
   ingress {
@@ -48,7 +48,7 @@ resource "aws_security_group" "mysg" {
     from_port   = 80
     to_port     = 80
     protocol    = "tcp"
-    cidr_blocks = ["73.222.214.39/32"]
+    cidr_blocks = ["w.x.y.z/32"]
   }
 
   egress {
