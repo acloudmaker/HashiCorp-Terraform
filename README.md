@@ -35,6 +35,7 @@ A single organized place to learn, practice and certify!
 ## HashiCorp Certified Terraform Associate
 1. [Exam Objectives](https://www.hashicorp.com/certification/terraform-associate)
 2. [Exam Study Guide](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)
+3. [Exam Review - Terraform Associate Certification](https://learn.hashicorp.com/tutorials/terraform/associate-review) : Organized by each objective, its associated documentation and tutorial (it doesn't get any better than this to prepare!)
 
 ## GitHub Repos-HashiCorp
 ### [Terraform](https://github.com/hashicorp/terraform)
