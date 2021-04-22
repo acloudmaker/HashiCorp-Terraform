@@ -23,6 +23,9 @@ A single organized place to learn, practice and certify!
    * [Automate Terraform](https://learn.hashicorp.com/collections/terraform/automation) : Automate Terraform by running Terraform in Automation with CircleCI and other CI/CD platforms.
    * [Enterprise Patterns](https://learn.hashicorp.com/collections/terraform/recommended-patterns) : Solutions for Enterprise Organizations
 
+### Downloadables
+1. [Terraform Feature Matrix PDF](https://www.datocms-assets.com/2885/1602500234-terraform-full-feature-pricing-tablev2-1.pdf) : From the source, [HashiCorp Compare Offerings](https://www.hashicorp.com/products/terraform/pricing) page.
+
 ### Hashicorp Release Related Information
 1. [HashiCorp Release Download Site](https://releases.hashicorp.com/) : Refer for up-to-date availability of HashiCorp products
 2. [Checkpoint Service](https://checkpoint.hashicorp.com/) : Checkpoint service by HashiCorp to provide version and alert information for various open source and proprietary products.
