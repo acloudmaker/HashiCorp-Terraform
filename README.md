@@ -26,10 +26,11 @@ A single organized place to learn, practice and certify!
 ### Downloadables
 1. [Terraform Feature Matrix PDF](https://www.datocms-assets.com/2885/1602500234-terraform-full-feature-pricing-tablev2-1.pdf) : From the source, [HashiCorp Compare Offerings](https://www.hashicorp.com/products/terraform/pricing) page.
 
-### Hashicorp Release Related Information
-1. [HashiCorp Release Download Site](https://releases.hashicorp.com/) : Refer for up-to-date availability of HashiCorp products
-2. [Checkpoint Service](https://checkpoint.hashicorp.com/) : Checkpoint service by HashiCorp to provide version and alert information for various open source and proprietary products.
-3. [HashiCorp Discussion-Programmatic way to lookup latest version](https://discuss.hashicorp.com/t/is-there-a-programmatic-way-to-look-up-the-latest-version/15175/8) : Checkpoint API Example. 
+### Hashicorp Release Related Information 
+1. [Explore HashiCorp Community](https://www.hashicorp.com/community) : Join the conversation Ask questions, find answers, and share knowledge on HashiCorp forum
+2. [HashiCorp Release Download Site](https://releases.hashicorp.com/) : Refer for up-to-date availability of HashiCorp products
+3. [Checkpoint Service](https://checkpoint.hashicorp.com/) : Checkpoint service by HashiCorp to provide version and alert information for various open source and proprietary products.
+4. [HashiCorp Discussion-Programmatic way to lookup latest version](https://discuss.hashicorp.com/t/is-there-a-programmatic-way-to-look-up-the-latest-version/15175/8) : Checkpoint API Example. 
  
 
 ### External Documentation
