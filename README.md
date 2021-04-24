@@ -41,6 +41,10 @@ A single organized place to learn, practice and certify!
 2. [Exam Study Guide](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)
 3. [Exam Review - Terraform Associate Certification](https://learn.hashicorp.com/tutorials/terraform/associate-review) : Organized by each objective, its associated documentation and tutorial (it doesn't get any better than this to prepare!)
 
+### Exam Tips
+1. HashiCorp documentation and [HashiCorp Learn-Terraform] resources are excellent. While going through the [Exam Review] above, try out tall the hands-on tutorials, they are easy and work as is as given in the documentation
+2. Pay particular atten to _blue_ and _yellow_ boxes highlighting _technical notes_ and _NOTES_
+
 ## GitHub Repos-HashiCorp
 ### [Terraform](https://github.com/hashicorp/terraform)
 ### [Consul](https://github.com/hashicorp/consul)
@@ -51,3 +55,7 @@ A single organized place to learn, practice and certify!
 
 ## GitHub Repos-My Working Collection
 ### [AWS](https://github.com/acloudmaker/HashiCorp-Terraform/tree/main/AWS)
+
+
+[HashiCorp Learn-Terraform]: https://learn.hashicorp.com/terraform
+[Exam Review]: https://learn.hashicorp.com/tutorials/terraform/associate-review
