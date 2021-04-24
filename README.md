@@ -43,7 +43,7 @@ A single organized place to learn, practice and certify!
 
 ### Exam Tips
 1. HashiCorp documentation and [HashiCorp Learn-Terraform] resources are excellent. While going through the [Exam Review] above, try out tall the hands-on tutorials, they are easy and work as is as given in the documentation
-2. Pay particular atten to _blue_ and _yellow_ boxes highlighting _technical notes_ and _NOTES_
+2. Pay particular attention to _blue_ and _yellow_ boxes highlighting _technical notes_ and _NOTES_
 
 ## GitHub Repos-HashiCorp
 ### [Terraform](https://github.com/hashicorp/terraform)
