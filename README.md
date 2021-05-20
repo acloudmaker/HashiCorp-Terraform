@@ -5,7 +5,7 @@ A single organized place to learn, practice and certify!
 2. [HashiCorp Certified: Terraform Associate](#hashicorp-certified-terraform-associate)
 3. [GitHub Repos - HashiCorp](#github-repos-hashicorp)
 4. [GitHub Repos - My Working Collection](#github-repos-my-working-collection)
-5. [HashiCorp Resources-Presentations](https://www.hashicorp.com/resources?products=terraform&language=english&type=presentation)
+5. [HashiCorp Resources - Presentations](https://www.hashicorp.com/resources?products=terraform&language=english&type=presentation)
 
 ## Documentation and Reference
 
